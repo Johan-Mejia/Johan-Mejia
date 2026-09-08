@@ -1,4 +1,4 @@
-# Hi there, I'm Johan Alexander 👋
+# Hi there, I'm Johan Mejia 👋
 
 🛡️ **Cybersecurity Enthusiast | Aspiring SOC Analyst | Software Engineering Student**
 
