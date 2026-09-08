@@ -16,4 +16,3 @@ Apasionado por la seguridad de la información, el monitoreo de redes y el anál
 
 ### 📫 Connect with me:
 - **LinkedIn:** [johan-alexander-m-4a6264121](https://www.linkedin.com/in/johan-alexander-m-4a6264121)
-- **GitHub:** [Johan-Mejia](https://github.com/Johan-Mejia/Johan-Mejia)
