@@ -18,7 +18,7 @@ Passionate about information security, network monitoring, threat detection, and
 
 ### 📂 Featured Repositories
 
-* 📝 **[HTB-Writeups](./HTB-Writeups):** Detailed penetration testing reports and walk-throughs for HTB Linux & Windows machines (Reactor, Cap, etc.).
+* 📝 **[HTB-Writeups](https://github.com/Johan-Mejia/HTB-Writeups):** Detailed penetration testing reports and walk-throughs for HTB Linux & Windows machines (Reactor, Cap, etc.).
 * 🔍 **[HTB-Sherlocks-Writeups](./HTB-Sherlocks-Writeups):** Blue Team, DFIR, and SOC incident investigation labs.
 
 ---
